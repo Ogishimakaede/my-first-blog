@@ -1,0 +1,6 @@
+>git add ./pythontest
+git commit -m "”CˆÓ‚ÌƒRƒƒ“ƒg"
+git push -u origin master
+
+commitæ‚èÁ‚µ
+git reset --soft HEAD^
